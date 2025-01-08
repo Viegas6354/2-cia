@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["2ª Companhia - Polícia Militar (VIRTUAL)","2ª Cia - Assistente Virtual"];
+const statusMessages = ["Assistente Virtual - PMESP","Assistente Virtual - PMESP"];
 
 
 let currentIndex = 0;
